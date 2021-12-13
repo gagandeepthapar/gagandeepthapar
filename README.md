@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **learning more about flight software**
 
-- 👨‍💻 All of my projects are available [on my github page](https://github.com/gaganthapar12309)
+- 👨‍💻 All of my projects are available [on my github page](https://github.com/gaganthapar12309?tab=repositories)
 
 - 💬 Ask me about **C, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics, or anything else space/Spacecraft related**
 
