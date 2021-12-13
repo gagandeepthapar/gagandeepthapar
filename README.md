@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">A passionate Aerospace Engineering (w/ minor in CS) student at Cal Poly SLO who's extremely interested in human spaceflight, launch vehicle and spacecraft controls, and problem‐solving!</h3>
 
-- 🔭 I’m currently working on **a redevelopment of a simulation to control the attitude of a LEO satellite observer**
+- 🔭 I’m currently working on **[a redevelopment of a simulation to control the attitude of a LEO satellite observer](https://github.com/gaganthapar12309/Satellite_ADCS_Simulation)**
 
 - 🌱 I’m currently learning **Advanced Spacecraft Controls, Flight Software, and C++**
 
