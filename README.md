@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **C, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics**
 
-- 📫 How to reach me **gthapar@calpoly.edu**
+- 📫 Want to chat? You can reach me at **gthapar@calpoly.edu**
 
 - 📄 See my latest resume here [https://github.com/gaganthapar12309/gaganthapar12309/blob/main/_ThaparGagandeepResume.pdf](https://github.com/gaganthapar12309/gaganthapar12309/blob/main/_ThaparGagandeepResume.pdf)
 
-- ⚡ Fun fact **Over the course of 4 years I backpacked 1000+ miles including several 1-2 week long trips to Lost Coast, Philmont, and even Mt. Whitney**
+- ⚡ Fun fact: **Over the course of 4 years I backpacked 1000+ miles including several 1-2 week long trips to Lost Coast, Philmont, and even Mt. Whitney**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
