@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a redevelopment of a simulation to control the attitude of a LEO satellite observer**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Advanced Spacecraft Controls, Flight Software, and C++**
 
 - 🤝 I’m looking for help with **learning more about flight software**
 
