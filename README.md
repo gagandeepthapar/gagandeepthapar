@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with **learning more about flight software**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gaganthapar12309](https://github.com/gaganthapar12309)
+- 👨‍💻 All of my projects are available [on my github page](https://github.com/gaganthapar12309)
 
 - 💬 Ask me about **C, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics**
 
 - 📫 Want to chat? You can reach me at **gthapar@calpoly.edu**
 
-- 📄 See my latest resume here [https://github.com/gaganthapar12309/gaganthapar12309/blob/main/_ThaparGagandeepResume.pdf](https://github.com/gaganthapar12309/gaganthapar12309/blob/main/_ThaparGagandeepResume.pdf)
+- 📄 See my latest resume [here](https://github.com/gaganthapar12309/gaganthapar12309/blob/main/_ThaparGagandeepResume.pdf)
 
 - ⚡ Fun fact: **Over the course of 4 years I backpacked 1000+ miles including several 1-2 week long trips to Lost Coast, Philmont, and even Mt. Whitney**
 
