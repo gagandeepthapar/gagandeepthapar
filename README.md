@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with **learning more about flight software**
 
-- 👨‍💻 All of my projects are available [on my github page](https://github.com/gaganthapar12309?tab=repositories)
+- 👨‍💻 All of my side projects are available [on my github page](https://github.com/gaganthapar12309?tab=repositories)
 
-- 💬 Ask me about **C, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics, or anything else space/Spacecraft related**
+- 💬 Ask me about **C, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics, or anything else space/spacecraft related**
 
 - 📫 Want to chat? You can reach me at **gthapar@calpoly.edu**
 
-- 📄 See my latest resume [here](https://github.com/gaganthapar12309/gaganthapar12309/blob/main/_ThaparGagandeepResume.pdf)
+- 📄 Interested in my professional background? See my latest resume [here](https://github.com/gaganthapar12309/gaganthapar12309/blob/main/_ThaparGagandeepResume.pdf)
 
 - ⚡ Fun fact: **I've fostered 5 cats and adopted 2 of them through my school's Cat Fostering Program**
 
