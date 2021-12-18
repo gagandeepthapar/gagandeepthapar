@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gagan</h1>
-<h3 align="center">A passionate Aerospace Engineering (w/ minor in CS) student at Cal Poly SLO excited to work on launch vehicle and spacecraft controls!</h3>
+<h3 align="center">A passionate Aerospace Engineering (w/ minor in CS) student at Cal Poly SLO who's extremely interested in human spaceflight, launch vehicle and spacecraft controls, and problem‐solving!</h3>
 
-- 🔭 I’m currently working on **a redevelopment of a simulation to control the attitude of a LEO satellite observer**
+- 🔭 I’m currently working on **[an interactive orbit visualizer](https://github.com/gagandeepthapar/interactiveOrbitVisualizer)**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Advanced Spacecraft Controls, Flight Software, and C++**
 
 - 🤝 I’m looking for help with **learning more about flight software**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gaganthapar12309](https://github.com/gaganthapar12309)
+- 👨‍💻 All of my side projects are available [on my github page](https://github.com/gagandeepthapar?tab=repositories)
 
-- 💬 Ask me about **C, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics**
+- 💬 Ask me about **C, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics, or anything else space/spacecraft related**
 
-- 📫 How to reach me **gthapar@calpoly.edu**
+- 📫 Want to chat? You can reach me at **gthapar@calpoly.edu**
 
-- ⚡ Fun fact **Over the course of 4 years I backpacked 1000+ miles including several 1-2 week long trips to Lost Coast, Philmont, and even Mt. Whitney**
+- 📄 Interested in my professional background? See my latest resume [here](https://github.com/gagandeepthapar/gagandeepthapar/blob/main/_ThaparGagandeepResume.pdf)
+
+- ⚡ Fun fact: **I've fostered 5 cats and adopted 2 of them through my school's Cat Fostering Program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,9 +25,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<!---
-gaganthapar12309/gaganthapar12309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
