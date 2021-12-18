@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">A passionate Aerospace Engineering (w/ minor in CS) student at Cal Poly SLO who's extremely interested in human spaceflight, launch vehicle and spacecraft controls, and problem‐solving!</h3>
 
-- 🔭 I’m currently working on **[an interactive orbit visualizer](https://github.com/gaganthapar12309/interactiveOrbitVisualizer)**
+- 🔭 I’m currently working on **[an interactive orbit visualizer](https://github.com/gagandeepthapar/interactiveOrbitVisualizer)**
 
 - 🌱 I’m currently learning **Advanced Spacecraft Controls, Flight Software, and C++**
 
 - 🤝 I’m looking for help with **learning more about flight software**
 
-- 👨‍💻 All of my side projects are available [on my github page](https://github.com/gaganthapar12309?tab=repositories)
+- 👨‍💻 All of my side projects are available [on my github page](https://github.com/gagandeepthapar?tab=repositories)
 
 - 💬 Ask me about **C, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics, or anything else space/spacecraft related**
 
 - 📫 Want to chat? You can reach me at **gthapar@calpoly.edu**
 
-- 📄 Interested in my professional background? See my latest resume [here](https://github.com/gaganthapar12309/gaganthapar12309/blob/main/_ThaparGagandeepResume.pdf)
+- 📄 Interested in my professional background? See my latest resume [here](https://github.com/gagandeepthapar/gagandeepthapar/blob/main/_ThaparGagandeepResume.pdf)
 
 - ⚡ Fun fact: **I've fostered 5 cats and adopted 2 of them through my school's Cat Fostering Program**
 
