@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **I've fostered 5 cats (and adopted 2 of them) through my school's Cat Fostering Program:**</br>
 Meet Georgia (left) and Zoro (right)
-![Georgia](_Georgia.jpeg) ![Zoro](_Zoro.jpeg)
+![Georgia](images/_Georgia.jpeg) ![Zoro](images/_Zoro.jpeg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
