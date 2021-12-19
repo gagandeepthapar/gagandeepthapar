@@ -15,9 +15,7 @@
 
 - 📄 Interested in my professional background? See my latest resume [here](https://github.com/gagandeepthapar/gagandeepthapar/blob/main/_ThaparGagandeepResume.pdf)
 
-- ⚡ Fun fact: **I've fostered 5 cats (and adopted 2 of them) through my school's Cat Fostering Program:**</br>
-Meet Georgia (left) and Zoro (right)
-![Georgia](images/_Georgia.jpeg) ![Zoro](images/_Zoro.jpeg)
+- ⚡ Fun fact: **I've fostered 5 cats (and adopted 2 of them) through my school's Cat Fostering Program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
