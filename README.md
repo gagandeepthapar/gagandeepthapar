@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">A passionate Aerospace Engineering (w/ minor in CS) student at Cal Poly SLO who's extremely interested in human spaceflight, launch vehicle and spacecraft controls, and problem‐solving!</h3>
 
-- 🔭 I’m currently working on **[an interactive orbit visualizer](https://github.com/gagandeepthapar/interactiveOrbitVisualizer)**
+- 🔭 I’m currently working on **[a hand tracker using computer vision](https://github.com/gagandeepthapar/handTracker)**
 
 - 🌱 I’m currently learning **Advanced Spacecraft Controls, Flight Software, and C++**
 
