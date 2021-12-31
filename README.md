@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced Spacecraft Controls, Flight Software, and C++**
 
-- 🤝 I’m looking for help with **learning more about flight software**
+- 🤝 I’m looking for help with **learning more about flight software (i.e., NASA F')**
 
 - 👨‍💻 All of my side projects are available [on my github page](https://github.com/gagandeepthapar?tab=repositories)
 
