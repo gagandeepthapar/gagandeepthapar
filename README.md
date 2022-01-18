@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my side projects are available [on my github page](https://github.com/gagandeepthapar?tab=repositories)
 
-- 💬 Ask me about **C, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics, or anything else space/spacecraft related**
+- 💬 Ask me about **C/C++, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics, or anything else space/spacecraft or controls related**
 
 - 📫 Want to chat? You can reach me at **gthapar@calpoly.edu**
 
