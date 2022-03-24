@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[a Python/Arduino project to visualize attitude in a real sense](https://github.com/gagandeepthapar/imuDeterminedAttitude)**
 
-- 🌱 I’m currently learning **Advanced Spacecraft Controls**
+- 🌱 I’m currently learning **Real-Time Embedded Systems**
 
 - 🤝 I’m looking for help with **learning more about flight software architecture and integration (i.e., NASA F')**
 
