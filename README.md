@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gagan</h1>
-<h3 align="center">A passionate Aerospace Engineering (w/ minor in CS) student at Cal Poly SLO who's extremely interested in human spaceflight, launch vehicle and spacecraft controls, and problem‐solving!</h3>
+<h3 align="center">A passionate Aerospace Engineering (w/ minor in CS) graduate student at Cal Poly SLO who's extremely interested in human spaceflight, launch vehicle and spacecraft controls (specifically autonomous controls, EDL, trajectory optimization, and Markov Decision Processes), and problem‐solving!</h3>
 
 <!-- - 🔭 I’m currently working on **[a Python/Arduino project to visualize attitude in a real sense](https://github.com/gagandeepthapar/imuDeterminedAttitude)**
  -->
-- 🌱 I’m currently learning **Real-Time Embedded Systems**
-
-- 🤝 I’m looking for help with **learning more about flight software architecture and integration (i.e., NASA F')**
 
 - 👨‍💻 All of my side projects are available [on my github page](https://github.com/gagandeepthapar?tab=repositories)
 
