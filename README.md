@@ -9,7 +9,7 @@
 
 - 📫 Want to chat? You can reach me at **gthapar@calpoly.edu**
 
-- 📄 Interested in my professional background? See my CV [here](https://github.com/gagandeepthapar/gagandeepthapar/blob/main/_ThaparGagandeepResume.pdf)
+- 📄 Interested in my professional background? See my CV [here](https://github.com/gagandeepthapar/gagandeepthapar/blob/main/ThaparGagandeepCV.pdf)
 
 - ⚡ Fun fact: **I've fostered 5 cats (and adopted 2 of them) through my school's Cat Fostering Program**
 
