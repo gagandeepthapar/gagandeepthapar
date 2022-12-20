@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">A passionate Aerospace Engineering (w/ minor in CS) graduate student at Cal Poly SLO who's extremely interested in human spaceflight, launch vehicle and spacecraft controls (specifically autonomous controls, EDL, trajectory optimization, and Markov Decision Processes), and problem‐solving!</h3>
 
-<!-- - 🔭 I’m currently working on **[a Python/Arduino project to visualize attitude in a real sense](https://github.com/gagandeepthapar/imuDeterminedAttitude)**
- -->
+- 🔭 I’m currently working on **[my thesis](https://github.com/gagandeepthapar/StarTrackerThesis)** to develop a **[robust measurement process model for star trackers](https://github.com/gagandeepthapar/StarTrackerMPM)** in LEO by looking at effects on accuracy and precision due to hardware, software, and environmental conditions.
 
-- 👨‍💻 All of my side projects are available [on my github page](https://github.com/gagandeepthapar?tab=repositories)
+- 👨‍💻 While on the topic of Star Trackers, check out my work with the **[Cal Poly CubeSat Lab](https://www.polysat.org/)** to develop our own low-cost, low-volume star tracker! I wrote all of the code to **[generate ground truth data and simulated images](https://github.com/gagandeepthapar/StarTrackerImageGen)** and am currently working to write our own centroiding algorithms!
 
 - 💬 Ask me about **C/C++, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics, or anything else space/spacecraft or controls related**
 
