@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gagan</h1>
-<h3 align="center">A passionate Aerospace Engineering (w/ minor in CS) graduate student at Cal Poly SLO who's extremely interested in human spaceflight, launch vehicle and spacecraft controls (specifically autonomous controls, EDL, trajectory optimization, and Markov Decision Processes), and problem‐solving!</h3>
+<h3 align="center">A passionate Aerospace Engineering (w/ minor in CS) graduate student at Cal Poly SLO who's extremely interested in spacecraft controls, specifically autonomous control, Entry/Descent/Landing, trajectory optimization, and Markov Decision Processes. I'm hoping to take my skills to a doctoral program where I can research these problems closely and help get closer to more robust spacecraft GNC.</h3>
 
 - 🔭 I’m currently working on **[my thesis](https://github.com/gagandeepthapar/StarTrackerThesis)** to develop a **[robust measurement process model for star trackers](https://github.com/gagandeepthapar/StarTrackerMPM)** in LEO by looking at effects on accuracy and precision due to hardware, software, and environmental conditions.
 
 - 👨‍💻 While on the topic of Star Trackers, check out my work with the **[Cal Poly CubeSat Lab](https://www.polysat.org/)** to develop our own low-cost, low-volume star tracker! I wrote all of the code to **[generate ground truth data and simulated images](https://github.com/gagandeepthapar/StarTrackerImageGen)** and am currently working to write our own centroiding algorithms!
 
-- 💬 Ask me about **C/C++, Python, Java, Orbital Dynamics, Spacecraft ADCS/GNC/Controls, Avionics, or anything else space/spacecraft or controls related**
+- 💬 Feel free to browse through my other **[side projects](https://github.com/gagandeepthapar?tab=repositories)**
 
 - 📫 Want to chat? You can reach me at **gthapar@calpoly.edu**
 
-- 📄 Interested in my professional background? See my latest resume [here](https://github.com/gagandeepthapar/gagandeepthapar/blob/main/_ThaparGagandeepResume.pdf)
+- 📄 Interested in my professional background? See my CV [here](https://github.com/gagandeepthapar/gagandeepthapar/blob/main/_ThaparGagandeepResume.pdf)
 
 - ⚡ Fun fact: **I've fostered 5 cats (and adopted 2 of them) through my school's Cat Fostering Program**
 
