@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[my thesis](https://github.com/gagandeepthapar/StarTrackerThesis)** to develop a **[robust measurement process model for star trackers](https://github.com/gagandeepthapar/StarTrackerMPM)** in LEO by looking at effects on accuracy and precision due to hardware, software, and environmental conditions.
 
-- 👨‍💻 While on the topic of Star Trackers, check out my work with the **[Cal Poly CubeSat Lab](https://www.polysat.org/)** to develop our own low-cost, low-volume star tracker! I wrote all of the code to **[generate ground truth data and simulated images](https://github.com/gagandeepthapar/StarTrackerImageGen)** and am currently working to write our own centroiding algorithms!
+- 👨‍💻 While on the topic of Star Trackers, check out my work with the **[Cal Poly CubeSat Lab](https://www.polysat.org/)** to develop our own low-cost, low-volume star tracker! I wrote all of the code to **[generate ground truth data and simulated images](https://github.com/gagandeepthapar/StarTrackerImageGen)** and am currently working to write our own centroiding algorithms via Convolution Matrices and CNNs!
 
 - 💬 Feel free to browse through my other **[side projects](https://github.com/gagandeepthapar?tab=repositories)**
 
