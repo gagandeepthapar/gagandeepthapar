@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagan</h1>
-A passionate Aerospace Engineering (w/ minor in CS) graduate student at Cal Poly SLO who's extremely interested in spacecraft controls, specifically autonomous control, Entry/Descent/Landing, **[trajectory optimization](https://github.com/gagandeepthapar/pinpointRocketLanding)**, and Markov Decision Processes. I'm hoping to take my skills to a doctoral program where I can research these problems closely and help get closer to more robust spacecraft GNC.</h3>
+A passionate Aerospace Engineering (w/ minor in CS) graduate student at Cal Poly SLO who's extremely interested in spacecraft controls, specifically autonomous control, Entry/Descent/Landing, **[trajectory optimization](https://github.com/gagandeepthapar/pinpointRocketLanding)**, and Markov Decision Processes. I'm hoping to take my skills to a doctoral program where I can research these problems closely and help get closer to more robust spacecraft GNC.
 
 - 🔭 I’m currently working on **[my thesis](https://github.com/gagandeepthapar/StarTrackerThesis)** to develop a **[robust measurement process model for star trackers](https://github.com/gagandeepthapar/StarTrackerMPM)** in LEO by looking at effects on accuracy and precision due to hardware, software, and environmental conditions.
 
