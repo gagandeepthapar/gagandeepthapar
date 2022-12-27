@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">A passionate Aerospace Engineering/Computer Science grad student at Cal Poly SLO who's extremely interested in spacecraft autonomous control, Entry/Descent/Landing (EDL), <a href="https://github.com/gagandeepthapar/pinpointRocketLanding" target="_blank">trajectory optimization</a>, and Markov Decision Processes.</h3>
 
-- 🔭 I’m currently working on **[my thesis](https://github.com/gagandeepthapar/StarTrackerThesis)** to develop a **[robust measurement process model for star trackers](https://github.com/gagandeepthapar/StarTrackerMPM)** in LEO by looking at effects on accuracy and precision due to hardware, software, and environmental conditions.
+- 🔭 I’m currently working on my thesis to develop a **[robust measurement process model for star trackers](https://github.com/gagandeepthapar/StarTrackerMPM)** in LEO by looking at effects on accuracy and precision due to hardware, software, and environmental conditions.
 
 - 👨‍💻 While on the topic of Star Trackers, check out my work with the **[Cal Poly CubeSat Lab](https://www.polysat.org/)** to develop our own low-cost, low-volume star tracker! I wrote all of the code to **[generate ground truth data and simulated images](https://github.com/gagandeepthapar/StarTrackerImageGen)** and am currently working to write our own centroiding algorithms via Convolution Matrices and CNNs!
 
