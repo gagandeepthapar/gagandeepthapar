@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gagan</h1>
-<h3 align="center">A passionate Aerospace Engineering/Computer Science grad student at Cal Poly SLO who's extremely interested in spacecraft autonomous control, Entry/Descent/Landing (EDL), <a href="https://github.com/gagandeepthapar/pinpointRocketLanding" target="_blank">trajectory optimization</a>, and Markov Decision Processes.</h3>
+<h3 align="center">A passionate Aerospace Engineering/Computer Science grad student at Cal Poly SLO who's extremely interested in stochastic optimal control, spacecraft entry/descent/landing (EDL), <a href="https://github.com/gagandeepthapar/pinpointRocketLanding" target="_blank">trajectory optimization</a>, and state estimation.</h3>
 
-- 🔭 I’m currently working on my thesis to develop a **[robust measurement process model for star trackers](https://github.com/gagandeepthapar/StarTrackerMPM)** in LEO by looking at effects on accuracy and precision due to hardware, software, and environmental conditions.
+- 🚀 I'm currently working on a few side projects including a Python library for Orbital Mechanics, developing CPP/Python packages for various simulation components, and a large scale rocket-landing simulator complete from state estimation to state actuation to trajectory generation and navigation! Check back soon for updates!
+  
+- 🔭 I recently finished my thesis to develop a **[robust measurement process model for star trackers](https://github.com/gagandeepthapar/StarTrackerMPM)** in LEO by looking at effects on accuracy and precision due to hardware, software, and environmental conditions.
 
 - 👨‍💻 While on the topic of Star Trackers, check out my work with the **[Cal Poly CubeSat Lab](https://www.polysat.org/)** to develop our own low-cost, low-volume star tracker! I wrote all of the code to **[generate ground truth data and simulated images](https://github.com/gagandeepthapar/StarTrackerImageGen)** and am currently working to write our own centroiding algorithms via Convolution Matrices and CNNs!
 
 - 💬 Feel free to browse through my other **[side projects](https://github.com/gagandeepthapar?tab=repositories)**
-
-- 📫 Want to chat? You can reach me at **gthapar@calpoly.edu**
 
 - 📄 Interested in my professional background? See my CV [here](https://github.com/gagandeepthapar/gagandeepthapar/blob/main/ThaparGagandeepCV.pdf)
 
